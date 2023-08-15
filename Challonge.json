@@ -1,0 +1,9 @@
+{
+  "api_key": (API KEY),
+  "tournament":{
+    "name": "D-SHT (NUMBER)",
+    "tournament_type": "double elimination", 
+    "url": "DSHT(NUMBER)(EVENT TYPE)",
+    "description": "Maybe I use this??",
+    "start_at": "(CURRENT DATE)(EVENT TYPE START TIME)"
+}
