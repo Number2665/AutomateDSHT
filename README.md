@@ -18,12 +18,12 @@
 10. Discord Results Post
 
 # Magical Christmas Land
-The world I want to live in ith this is as follows:  
+The world I want to live in with this is as follows:  
 
 On Sunday I want to open something that has the default games, start times, and announcement blurb with the upcoming D-SHT number  
-I'm able to change the games/schedule if needed and add in edition blurb along with potentially any info at the end  
+I'm able to change the games/schedule if needed and add in the edition blurb along with potentially any extra info at the end  
 
-I press a lil' "Run weekly" and the folowing happens:  
+I press a lil' "Run weekly" button and the folowing happens:  
 A Discord announcement is made with the information, the annoucement contains reactions for each game  
 If enough people react, a challonge bracket for that game is made and those people are added to it  
 Challonge brackets are automatically seeded using Braacket
@@ -34,6 +34,6 @@ During the weekly it would then be nice to have a little app on mobile that can 
 After brackets are done, I hit an "End weekly" button that does the following:  
 The Challonge brackets are ended, or show up with a request to finish them (oops)
 The Twitch stream is ended and the VODs are uploaded to youtube  
-the bracket info from Challonge is uploaded to Braacket and ladder is updated  
+The bracket info from Challonge is uploaded to Braacket and ladder is updated  
 A results banner is generated for the top 3 of the games run  
 That results banner is posted to Discord  
