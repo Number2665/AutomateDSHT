@@ -1,10 +1,19 @@
 JSON doesn't support comments but sue me
 In theory this is where I'm going to store stuff
+I think this can store my D-SHT game template along with the D-SHT number
+I should probably keep the challonge template out of here, but maybe it ends up in here too because it'll be pretty empty otherwise
+
+JSON time formatting?: YYYY-MM-DDTHH:MM:SS.SSSZ
+(Year-Month-Day TimeHours:Minutes:Seconds.Milliseconds Timezone)
 
 {
-
-
-
-
-
+  "currentDSHT": "194"
+  "events": {
+    "firstGame": "Ultimate",
+    "firstTime": "",
+    "secondGame": "P+",
+    "secondTime": "",
+    "thirdGame": "HDR",
+    "thirdTime": "",
+  }
 }
